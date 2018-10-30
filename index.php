@@ -1,1 +1,1 @@
-<?php phpinfo(); echo 'x'; ?>
+<?php phpinfo(); echo 'xccc'; ?>
